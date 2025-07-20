@@ -9,7 +9,7 @@
 
 ---
 
-### 🧠 Interests
+### 💡 Interests
 - Backend Development
 - Distributed Systems
 - Retrieval-Augmented Generation (RAG) & LLMs
